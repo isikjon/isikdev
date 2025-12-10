@@ -23,21 +23,18 @@
 
 ## 📊 Немного метрик
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isikjon&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&cache_seconds=86400" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=isikjon&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&cache_seconds=86400" alt="GitHub stats">
   <img src="https://streak-stats.demolab.com?user=isikjon&theme=transparent&hide_border=true" alt="GitHub streak">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isikjon&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isikjon&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages">
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=isikjon&style=flat-square&color=blue" alt="Profile views">
 </div>
 <div align="center">
-  <sub>Если сервисы GitHub Stats/Streak временно недоступны (дают 404), обнови страницу чуть позже — это их лимиты.</sub>
+  <sub>Если GitHub Stats/Streak возвращают 404 из-за лимитов, обнови страницу позже; можно переключить зеркало stats на <code>github-readme-stats.vercel.app</code> или <code>github-readme-stats-git-masterrstaa-rickstaa.vercel.app</code>.</sub>
 </div>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📌 Форматы работы
 
