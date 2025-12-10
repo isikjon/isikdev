@@ -36,6 +36,9 @@
   <sub>Если сервисы GitHub Stats/Streak временно недоступны (дают 404), обнови страницу чуть позже — это их лимиты.</sub>
 </div>
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📌 Форматы работы
 
 - REST API, CRUD, авторизация, интеграции (webhook, платежи, email).
