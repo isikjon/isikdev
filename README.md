@@ -1,6 +1,6 @@
 
-# Привет, я Alex — Junior PHP Developer
-Начинаю путь в Python и Dart, люблю аккуратную документацию, чистый код и понятные инструкции по запуску проектов.
+# Junior PHP Developer
+Путь в Python и Dart, чистый код и понятные инструкции по запуску проектов.
 
 ## Стек и инструменты
 ![PHP](https://img.shields.io/badge/PHP-222222?style=for-the-badge&logo=php&logoColor=8993be)
@@ -22,13 +22,6 @@
 - Боты и сервисы на Python (Django/FastAPI) — скрипты, веб-хуки, интеграции.
 - Мобильные приложения на Flutter (Dart) — простые MVP и клиентские интерфейсы.
 - Верстка и посадочные страницы под задачи бизнеса.
-
-## Проекты, где больше всего коммитов
-- [`shareUp_backend`](https://github.com/isikjon/shareUp_backend): PHP-бэкенд с авторизацией, ролями и CRUD.
-- [`calmar-portfolio`](https://github.com/isikjon/calmar-portfolio): фронтенд-портфолио на JavaScript/Bootstrap.
-- [`isikdev`](https://github.com/isikjon/isikdev): личный сайт-визитка и playground для новых фич.
-- [`Shtukaturki.net`](https://github.com/isikjon/Shtukaturki.net): лендинг и заявки на JS, адаптивная верстка.
-- [`abai-shop`](https://github.com/isikjon/abai-shop) и [`violet`](https://github.com/isikjon/violet): посадочные страницы, практика UI/UX и форм заявок.
 
 ## Чем помогаю
 - Проектирование и сборка API/админок на Laravel и MySQL/PostgreSQL.
