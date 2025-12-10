@@ -23,14 +23,17 @@
 
 ## 📊 Немного метрик
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isikjon&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats">
-  <img src="https://streak-stats.demolab.com?user=isikjon&theme=dark&hide_border=true" alt="GitHub streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=isikjon&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&cache_seconds=86400" alt="GitHub stats">
+  <img src="https://streak-stats.demolab.com?user=isikjon&theme=transparent&hide_border=true" alt="GitHub streak">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isikjon&layout=compact&theme=dark&hide_border=true" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isikjon&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages">
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=isikjon&style=flat-square&color=blue" alt="Profile views">
+</div>
+<div align="center">
+  <sub>Если сервисы GitHub Stats/Streak временно недоступны (дают 404), обнови страницу чуть позже — это их лимиты.</sub>
 </div>
 
 ## 📌 Форматы работы
